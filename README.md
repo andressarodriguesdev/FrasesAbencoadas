@@ -8,10 +8,9 @@ Um aplicativo Android simples desenvolvido em **Kotlin**, que exibe frases abenÃ
 
 ---
 
-## ğŸ“· Preview
 
-<img width="354" height="704" alt="Image" src="https://github.com/user-attachments/assets/32cb48b1-5cdd-4d4a-b760-2a69b04fa0f6" />
-<img width="352" height="708" alt="Image" src="https://github.com/user-attachments/assets/213328ac-cf7b-44ba-86d9-20f337fdac56" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a294deff-aa8a-428e-906c-5adf8cd9e3c3" />
 
 ---
 
